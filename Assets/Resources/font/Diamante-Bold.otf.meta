@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7671b8b3affc4d35bf9bb702c4e1b725
+timeCreated: 1569485486
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "Diamante-Bold"
+  fontNames:
+  - Diamante-Bold
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 
