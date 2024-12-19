@@ -181,7 +181,7 @@ public class MatchView : MonoBehaviour
 		this.m_adBtn.gameObject.SetActive(false);
 		this.m_ind = ind;
 		this.m_costTxt.text = string.Concat(MatchView.m_costs[this.m_ind]);
-		if (ind == 0)
+		if (false)
 		{
 			if (Singleton<MatchManager>.Instance.m_MatchInfo.m_matchTp[0] != 0)
 			{
