@@ -13,8 +13,8 @@ public class SkipView : MonoBehaviour
 
 	public void showView()
 	{
-		this.WinDoScale();
-		base.transform.gameObject.SetActive(true);
+		/*this.WinDoScale();
+		base.transform.gameObject.SetActive(true);*/
 	}
 
 	public void clickClose()
