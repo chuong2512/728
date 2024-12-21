@@ -6,6 +6,7 @@ using Util;
 
 public class MatchView : MonoBehaviour
 {
+    
     [Serializable]
     private sealed class __c
     {
